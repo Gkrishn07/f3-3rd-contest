@@ -1,0 +1,29 @@
+.click{
+    background-color: black;
+    color: white; 
+    margin: 20px;
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+    
+}
+.click:hover{
+    background-color: yellow;
+    color: black;
+}
+.removebtn{
+    display: flex;
+    font-size: 20px;
+    font-weight: 500;
+
+}
+.removebtn:hover{
+    background-color: yellow;
+
+}
+.map{
+    height: 100%;
+    width: 100%;
+    margin-left: 10%;
+    margin-top: 30px;
+}
